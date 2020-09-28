@@ -25,6 +25,6 @@ After activating the services, note your API Key and URL for each service. you w
 
 This project can be scaled to integrate with the smart home appliances already in place. It can also be scaled to have a full conversation with the owner using IBM Watson Assistant. To do so, we need a microphone module for the Raspberry Pi and an active Watson Assistant service. 
 
-### Please Fork the project if you wish to expand the scope or contribute to it.
-
 ** This project was part of the IBM Summit Technical Showcase in Summer 2020, and it was awarded first place at the showcase.  
+
+#### Please Fork the project if you wish to expand the scope or contribute to it.
