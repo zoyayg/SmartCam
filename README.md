@@ -27,4 +27,4 @@ This project can be scaled to integrate with the smart home appliances already i
 
 This project was part of the IBM Summit Technical Showcase in Summer 2020, and it was awarded first place at the showcase.  
 
-**Please Fork the project if you wish to expand the scope or contribute to it.
+#### ** Please Fork the project if you wish to expand the scope or contribute to it.
