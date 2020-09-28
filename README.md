@@ -21,7 +21,7 @@ After creating IBM cloud ID, log in and activate "Watson Visual Recognition" and
 
 After activating the services, note your API Key and URL for each service. you will need them to connect to the services using the API commands in the code.
 
-# Future Works
+# Future Work
 
 This project can be scaled to integrate with the smart home appliances already in place. It can also be scaled to have a full conversation with the owner using IBM Watson Assistant. To do so, we need a microphone module for the Raspberry Pi and an active Watson Assistant service. 
 
